@@ -1,6 +1,6 @@
 # Infrathrone-DevOps-Cheatsheet
 
-# Kubernetes Cheatsheet
+# Kubernetes Edition
 
 ## 1. Introduction to Kubernetes
 
